@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Full Stack Developer with 2 years of hands-on experience, turning innovative ideas into robust, high-performance software solutions. Proficient in front-end and back-end technologies, I thrive in creating seamless, user-friendly experiences
+Full Stack Developer with 1.7 years of hands-on experience, turning innovative ideas into robust, high-performance software solutions. Proficient in front-end and back-end technologies, I thrive in creating seamless, user-friendly experiences
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivanipal1399@gmail.com](mailto:shivanipal1399@gmail.com)
